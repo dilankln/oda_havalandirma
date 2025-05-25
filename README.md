@@ -4,7 +4,8 @@
 * numpy
 * matplotlib
 * scikit-fuzzy
- Kütüphaneleri indirdikten sonra yapmanız gerekenler dosyanın bilgisayarınızdaki konumunu öğrenerek cmd dosyasında çalıştırınız.
+
+Kütüphaneleri indirdikten sonra yapmanız gerekenler dosyanın bilgisayarınızdaki konumunu öğrenerek cmd dosyasında çalıştırınız.
 *python "C:\Users\konum\oda_havalandirma.py"
 
 
