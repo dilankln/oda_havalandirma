@@ -26,7 +26,8 @@ Bilgileri örnek olarak ben kendim doldurup diğer açılan pencereye bakalım.
 şimdi hesapla diyerek sonuçlara göz atalım.
 
 ![sonuc](https://github.com/user-attachments/assets/61b12190-465f-4590-b550-1a68626da56d)
-sonucları böyle grafikte göstermektedir.
+
+Projenin son kısmı böyledir. Sonuçlar grafikte de gösterilmektedir.
 
 
 
