@@ -9,7 +9,8 @@ Kütüphaneleri indirdikten sonra yapmanız gerekenler dosyanın bilgisayarını
 
 * python "C:\Users\konum\oda_havalandirma.py"
 
-Şimdi sıra projenin işleyişi ve özelliklerinde;
+Şimdi sıra projenin işleyişi ve özelliklerinde; 
+
 -5 adet girdisi bulunmaktadır.Bunlar(oda sıcaklığı,nem oranı,hava kalitesi,içerideki insan sayısı,pencere açıklık seviyesi) 
 -2 adet çıktısı vardır.Bunlar(havalandırma süresi ve fan hızıdır)
 
