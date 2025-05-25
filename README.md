@@ -6,7 +6,8 @@
 * scikit-fuzzy
 
 Kütüphaneleri indirdikten sonra yapmanız gerekenler dosyanın bilgisayarınızdaki konumunu öğrenerek cmd dosyasında çalıştırınız.
-*python "C:\Users\konum\oda_havalandirma.py"
+
+* python "C:\Users\konum\oda_havalandirma.py"
 
 Şimdi sıra projenin işleyişi ve özelliklerinde;
 -5 adet girdisi bulunmaktadır.Bunlar(oda sıcaklığı,nem oranı,hava kalitesi,içerideki insan sayısı,pencere açıklık seviyesi) 
